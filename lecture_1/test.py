@@ -1,1 +1,2 @@
-# copy the lines below
+
+print("hello world")
